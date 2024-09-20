@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RKB2SJG250SMTR_LFS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-23-09:05:28)
+    (mountForm default
+        (footprintRef "RKB2SJG250SMTRLFS")
+        (spec "System")
+    )
+)

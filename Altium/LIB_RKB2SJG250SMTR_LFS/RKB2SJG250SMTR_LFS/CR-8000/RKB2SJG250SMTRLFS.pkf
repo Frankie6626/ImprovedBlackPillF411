@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RKB2SJG250SMTRLFS"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RKB2SJG250SMTRLFS")
+        (spec "default")
+    )
+)

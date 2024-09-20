@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RKB2SJG250SMTR_LFS'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "C & K COMPONENTS", "RKB2SJG250SMTR LFS" (!) = "", "RKB2SJG250SMTRLFS", "Other", "611-RKB2SJG250SMTRLF", "https://www.mouser.co.uk/ProductDetail/CK/RKB2SJG250SMTR-LFS?qs=iLbezkQI%252Bsgsc0TY%2FPaT8A%3D%3D", "Tactile Switches J Bend SMT Term 400gf Force", "https://www.ckswitches.com/media/3130/ck_rk_datasheet.pdf", "2.7 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.RKB2SJG250SMTR_LFS :1 ;Tactile Switches J Bend SMT Term 400gf Force
+RKB2SJG250SMTRLFS
+*STM S
+*NGS
+*PLB 1="COM_1" 2="COM_2" 3="NO_1" 4="NO_2"
+*MXP 4
+*DFN RKB2SJG250SMTR_LFS
+~!Mouser Part Number (611-RKB2SJG250SMTRLF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CK/RKB2SJG250SMTR-LFS?qs=iLbezkQI%252Bsgsc0TY%2FPaT8A%3D%3D)
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (RKB2SJG250SMTR LFS)
+~!Link Datasheet (https://www.ckswitches.com/media/3130/ck_rk_datasheet.pdf)
+~!Height (2.7mm)
+~!3D_Model (RKB2SJG250SMTR_LFS)
+RKB2SJG250SMTR_LFS
+1.1!U 2.1!U 3.1!U 4.1!U 
