@@ -1,2 +1,2 @@
-# ImprovedBluePill
-A blue pill with a better stm32f103
+# ImprovedBlackPill
+A black pill with a stm32f411 with a stlink-V2
