@@ -55,7 +55,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\StlinkV2.SchDoc
+DocumentPath=StlinkV2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZSIBMTGY
 
 [Document2]
-DocumentPath=..\ImprovedBlackPill.SchDoc
+DocumentPath=ImprovedBlackPill.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
